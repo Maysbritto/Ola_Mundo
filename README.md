@@ -1,3 +1,3 @@
 # Olá, Mundo!
 Primeiro repositório
-Repositório craido para teste.
+Repositório criado para teste.
